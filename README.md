@@ -13,7 +13,7 @@ pueda disfrutar de la mejor experiencia en RolePlay.
 El servidor tiene tiempo estimado de su apertura entre 2 a 3 meses.
 Os dejo el discord por aquí ☺
 
-[WaveRoleplay Discord]https://discord.gg/q7jZWAj2
+[WaveRoleplay Discord](https://discord.gg/q7jZWAj2)
 
 
 
