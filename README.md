@@ -7,7 +7,7 @@
 
 ## ℹ Sobre WaveRoleplay
 
-WaveRoleplay es un servidor Hispano de FiveM que está siendo desarrollado por 4 programadores totalmente desde cero.Estamos desarrollando el servidor todos los días
+WaveRoleplay es un servidor Hispano de FiveM que está siendo desarrollado por 4 programadores totalmente desde cero. Estamos desarrollando el servidor todos los días
 de la semana, sin ningún tipo de descanso para poder abrir el servidor lo mejor y lo antes posible para que todo el mundo
 pueda disfrutar de la mejor experiencia en RolePlay.
 El servidor tiene tiempo estimado de su apertura entre 2 a 3 meses.
