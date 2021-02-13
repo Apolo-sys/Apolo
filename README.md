@@ -36,5 +36,5 @@ Os dejo el discord por aquí ☺
   <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo-sys&locale=es&count_private=true&theme=dark&layout=compact&hide_title=trueinclude_all_commits=true&langs_count=10"/>
 </a>
 <a href="https://github.com/Apolo-sys">
-  <img align="right" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=apolo-sys&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
+  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=apolo-sys&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
 </a>
