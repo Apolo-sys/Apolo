@@ -38,3 +38,6 @@ Os dejo el discord por aquí ☺
 <a href="https://github.com/Apolo-sys">
   <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=apolo-sys&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
 </a>
+<a href="https://github.com/Apolo-sys">
+  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/wakatime?username=apolosys&custom_title=Actividad%20de%20Apolo"/>
+</a>
