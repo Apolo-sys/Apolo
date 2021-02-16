@@ -41,3 +41,6 @@ Os dejo el discord por aquí ☺
 <a href="https://github.com/Apolo-sys">
   <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/wakatime?username=apolosys&custom_title=Actividad%20de%20Apolo%20 (7 dias)"/>
 </a>
+<a href="https://github.com/Apolo-sys">
+  <img align="center" alt="GitHub Stats apolo-sys" src="https://wakatime.com/share/@apolosys/f64e252f-44d2-4f7d-9b7b-38cba00125f6.svg"/>
+</a>
