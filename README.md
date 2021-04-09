@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/apolo.sys/count.svg" />  
 </p>
 
-# Hey, me llamo Apolo.
+# Hey, me llamo Apolo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - :telescope: Actualmente me encuentro desarrollando el proyecto "WaveRoleplay"
@@ -36,12 +36,15 @@ Os dejo el discord por aquí ☺
 ## 📊Mis estadísticas
 
 
-<a href="https://github.com/Apolo-sys">
-  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo-sys&locale=es&count_private=true&theme=dark&layout=compact&hide_title=trueinclude_all_commits=true&langs_count=10"/>
-</a>
-<a href="https://github.com/Apolo-sys">
-  <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api?username=apolo-sys&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
-</a>
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolo-sys&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo-sys&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>
+
+
 <a href="https://github.com/Apolo-sys">
   <img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/wakatime?username=apolosys&custom_title=Actividad%20de%20Apolo%20 (7 dias)"/>
 </a>
