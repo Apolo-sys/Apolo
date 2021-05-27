@@ -2,12 +2,12 @@
   <img src="https://profile-counter.glitch.me/apolo.sys/count.svg" />  
 </p>
 
-# Hey, me llamo Apolo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, me llamo Cristian. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - :telescope: Actualmente me encuentro desarrollando el proyecto "WaveRoleplay"
 - 😀: Me gusta aprender todo tipo de lenguajes 
-- 📭 Discord: Apolo#2002
+- 📭 Discord: Apolo#0430
 
 ## ℹ Sobre WaveRoleplay
 
